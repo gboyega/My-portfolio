@@ -1,0 +1,152 @@
+html,
+body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden
+}
+
+header{
+    width: 1920px;
+    height: auto;
+    background-color: #253e52;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 20px;
+}
+
+body{
+    background: #0a0a0a;
+    font-family: poppins, cursive;
+    color: aliceblue;
+}
+
+nav {
+    display: inline;
+    margin: 0 10px 0 10px;
+    font-family: poppins, cursive;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+nav > a {
+    text-align: center;
+    padding: 14px 16px;
+}
+
+nav a:hover {
+    color: #12a3b6;
+}
+
+aside {
+    float: left;
+    width: 500px;
+    padding: 10px;
+    color: #5a626e;
+    margin:20px 5px 20px 5px;
+    text-align: center;
+}
+
+.index {
+    float: right;
+    width: 900px;
+    padding: 10px;
+    margin:20px 5px 20px 5px;
+    color: aliceblue;
+    text-align: center;
+}
+
+main {
+    margin: 40px 20px 40px 20px ;
+}
+
+main > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h4 {
+    color: #12a3b6
+}
+
+.pmain {
+    text-align: center;
+}
+
+.pblock {
+    text-align: center;
+    float: left;
+    background-color: #253e52;
+    padding: 20px;
+    margin: 20px;
+}
+
+.abmain {
+    text-align: center;
+}
+
+input,
+button {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.cform {
+    width: 500px;
+    position: absolute;
+    left: 900px;
+    
+}
+
+.cform > h4 {
+    text-align: center;
+}
+
+
+
+.social {
+    position: absolute;
+    left: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.ccontainer {
+    display: inline-block;
+}
+
+button{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #12a3b6;
+    color: #000000;
+}
+
+button:hover{
+    background: #000000;
+    color: #12a3b6;
+}
+
+
+footer {
+    width: 1920px;
+    height: auto;
+    background-color: #253e52;
+    bottom: 0px;
+    font-size: 20px; 
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+}
