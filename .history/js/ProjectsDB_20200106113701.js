@@ -8,14 +8,14 @@ const Works = [
       "A book search app that consumes the google books API. Built with HTML, CSS, BootStrap and Js",
     github: "https://github.com/gboyega/Book-Worm",
     tags: ["HTML", "CSS", "JS", "Bootstrap"],
-    image:"https://res.cloudinary.com/gboyega/image/upload/v1577607860/Portfolio/Book-Worm_-_Google_Chrome_12_26_2019_7_27_22_PM_f53r0g.png"
+    img:"https://res.cloudinary.com/gboyega/image/upload/v1577607860/Portfolio/Book-Worm_-_Google_Chrome_12_26_2019_7_27_22_PM_f53r0g.png"
   },
 
   {
     title: "CRYPT-O",
     url: "https://gboyega.github.io/CRYPT-O/",
     desc:
-      "An app that shows information on the top 20 crypto-currencies by market-cap, in 3 currencies. Built with HTML, CSS, BootStrap and Js, and consumes the Coinranking API",
+      "An app that shows information  the top 20 crypto-currencies by market-cap, in 3 currencies. Built with HTML, CSS, BootStrap and Js, and consumes the Coinranking API",
     github: "https://github.com/gboyega/CRYPT-O",
     tags: ["HTML", "CSS", "JS", "Bootstrap"],
     image:"https://res.cloudinary.com/gboyega/image/upload/v1577607834/Portfolio/CRYPT-O_-_Google_Chrome_12_28_2019_6_39_20_AM_evoupj.png"

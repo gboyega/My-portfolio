@@ -1,6 +1,5 @@
 
 const Works = [
-
   {
     title: "BookWorm",
     url: "https://gboyega.github.io/Book-Worm/",
@@ -8,7 +7,8 @@ const Works = [
       "A book search app that consumes the google books API. Built with HTML, CSS, BootStrap and Js",
     github: "https://github.com/gboyega/Book-Worm",
     tags: ["HTML", "CSS", "JS", "Bootstrap"],
-    image:"https://res.cloudinary.com/gboyega/image/upload/v1577607860/Portfolio/Book-Worm_-_Google_Chrome_12_26_2019_7_27_22_PM_f53r0g.png"
+    img:
+      "https://res.cloudinary.com/gboyega/image/upload/v1577607834/Portfolio/CRYPT-O_-_Google_Chrome_12_28_2019_6_39_20_AM_evoupj.png"
   },
 
   {
@@ -18,7 +18,8 @@ const Works = [
       "An app that shows information on the top 20 crypto-currencies by market-cap, in 3 currencies. Built with HTML, CSS, BootStrap and Js, and consumes the Coinranking API",
     github: "https://github.com/gboyega/CRYPT-O",
     tags: ["HTML", "CSS", "JS", "Bootstrap"],
-    image:"https://res.cloudinary.com/gboyega/image/upload/v1577607834/Portfolio/CRYPT-O_-_Google_Chrome_12_28_2019_6_39_20_AM_evoupj.png"
+    image:
+      "https://res.cloudinary.com/gboyega/image/upload/v1577607834/Portfolio/CRYPT-O_-_Google_Chrome_12_28_2019_6_39_20_AM_evoupj.png"
   },
 
   {
@@ -27,7 +28,8 @@ const Works = [
     desc: "A quiz app built with react and semantic UI",
     github: "https://github.com/gboyega/react-quiz-app",
     tags: ["React", "JS", "Semantic-UI"],
-    image:"https://res.cloudinary.com/gboyega/image/upload/v1577608236/Portfolio/React_App_-_Google_Chrome_12_28_2019_12_04_26_PM_s2wted.png"
+    image:
+      "https://res.cloudinary.com/gboyega/image/upload/v1577608236/Portfolio/React_App_-_Google_Chrome_12_28_2019_12_04_26_PM_s2wted.png"
   },
 
   {
@@ -37,7 +39,7 @@ const Works = [
       "A video app consuming the Youtube API built with react and semantic UI",
     github: "https://github.com/gboyega/Vidapp-react",
     tags: ["React", "JS", "Semantic-UI"],
-    image:"https://res.cloudinary.com/gboyega/image/upload/v1577607878/Portfolio/React_App_-_Google_Chrome_12_28_2019_12_54_33_PM_whtbtt.png"
+    image:
+      "https://res.cloudinary.com/gboyega/image/upload/v1577607878/Portfolio/React_App_-_Google_Chrome_12_28_2019_12_54_33_PM_whtbtt.png"
   }
-  
 ];

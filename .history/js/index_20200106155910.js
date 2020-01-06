@@ -8,7 +8,7 @@ const showProjects = (sp) => {
 
                         <div>
                             <span>
-                                <a href=${sp.github} class="text-light float-left ml-5" target="blank"><i class="fab fa-github-alt" style="font-size: 2rem;" ></i></a>
+                                <a href=${sp.github} class="text-light float-left ml-5"target="blank"><i class="fab fa-github-alt" style="font-size: 2rem;" ></i></a>
                             </span>
                             <span>
                                 <a href=${sp.url} class="text-light float-right mr-5" target="blank"><i class="fas fa-external-link-square-alt" style="font-size: 2rem;"></i></a>
