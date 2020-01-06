@@ -47,8 +47,8 @@ const Works = [
     url: "https://nostalgic-hypatia-26c66c.netlify.com/",
     desc:
       "A site that helps find suya/asun spot in a loction, view their menus, check reviews and also drop a review. Built with HTML, CSS, BootStrap and Js",
-    github: "https://github.com/gboyega/grillSpot",
-    tags: ["HTML", "CSS", "JS", "Bootstrap"],
+    github: "https://github.com/gboyega/Vidapp-react",
+    tags: ["React", "JS", "Semantic-UI"],
     image:
       "https://res.cloudinary.com/gboyega/image/upload/v1577608159/Portfolio/GrillSpot_-_Google_Chrome_12_29_2019_9_20_25_AM_almwjm.png"
   }
