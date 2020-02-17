@@ -46,7 +46,7 @@ const Works = [
     title: "GrillSpot",
     url: "https://young-citadel-63046.herokuapp.com/",
     desc:
-      "Find the nearest suya/asun spot in your location, view their menus, check reviews and also drop a review. Frontend built with HTML, CSS, BootStrap and Js. Back-end built with NodeJs, Express and MongoDB.",
+      "A site that find suya/asun spot in a location, view their menus, check reviews and also drop a review. Frontend uilt with HTML, CSS, BootStrap and Js. Back-end built with NodeJs, Express and MongoDB.",
     github: "https://github.com/gboyega/grillSpot",
     tags: ["HTML", "CSS", "JS", "Bootstrap"],
     image:

@@ -44,9 +44,9 @@ const Works = [
 
   {
     title: "GrillSpot",
-    url: "https://young-citadel-63046.herokuapp.com/",
+    url: "https://nostalgic-hypatia-26c66c.netlify.com/",
     desc:
-      "Find the nearest suya/asun spot in your location, view their menus, check reviews and also drop a review. Frontend built with HTML, CSS, BootStrap and Js. Back-end built with NodeJs, Express and MongoDB.",
+      "A site that helps find suya/asun spot in a location, view their menus, check reviews and also drop a review. Frontend uilt with HTML, CSS, BootStrap and Js. Back-end built with NodeJs",
     github: "https://github.com/gboyega/grillSpot",
     tags: ["HTML", "CSS", "JS", "Bootstrap"],
     image:
