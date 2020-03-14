@@ -1,2 +1,0 @@
-const project
-const showProjects = 

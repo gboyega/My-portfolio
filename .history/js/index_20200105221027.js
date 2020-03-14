@@ -1,4 +1,0 @@
-
-const showProjects = (project) => {
-    
-}

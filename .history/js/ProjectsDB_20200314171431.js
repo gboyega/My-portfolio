@@ -48,19 +48,19 @@ const Works = [
     desc:
       "Find the nearest suya/asun spot in your location, view their menus, check reviews and also drop a review. Frontend built with HTML, CSS, BootStrap and Javascript. Back-end built with NodeJs, Express and MongoDB.",
     github: "https://github.com/gboyega/grillSpot",
-    tags: ["HTML", "CSS", "JS", "Bootstrap", "NodeJs", "Express", "MongoDB"],
+    tags: ["HTML", "CSS", "JS", "Bootstrap"],
     image:
       "https://res.cloudinary.com/gboyega/image/upload/v1577608159/Portfolio/GrillSpot_-_Google_Chrome_12_29_2019_9_20_25_AM_almwjm.png"
   },
 
   {
-    title: "Book-!t",
-    url: "https://b00kit.herokuapp.com/",
+    title: "B",
+    url: "https://young-citadel-63046.herokuapp.com/",
     desc:
-      "Online office space management,booking and scheduling for shared spaces. Built with React, NodeJs, Express and MongoDB.",
-    github: "https://github.com/CalistusObeke01/book-it",
-    tags: ["React", "NodeJs", "Express", "MongoDB"],
+      "Find the nearest suya/asun spot in your location, view their menus, check reviews and also drop a review. Frontend built with HTML, CSS, BootStrap and Javascript. Back-end built with NodeJs, Express and MongoDB.",
+    github: "https://github.com/gboyega/grillSpot",
+    tags: ["HTML", "CSS", "JS", "Bootstrap"],
     image:
-      "https://res.cloudinary.com/gboyega/image/upload/v1584203650/Portfolio/Book_T___An_online_booking_app_for_scheduling_meeting_rooms_seamlessly_-_Google_Chrome_3_14_2020_4_56_38_PM_2_hda7fi.png"
+      "https://res.cloudinary.com/gboyega/image/upload/v1577608159/Portfolio/GrillSpot_-_Google_Chrome_12_29_2019_9_20_25_AM_almwjm.png"
   }
 ];
