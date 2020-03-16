@@ -4,7 +4,6 @@ window.onload = () => {
   });
 
   if (window.location.pathname == "/#SuccessModal") {
-    console.log("fired");
     $("#SuccessModal").modal("show");
   }
 };

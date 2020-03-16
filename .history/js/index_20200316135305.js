@@ -1,10 +1,10 @@
 window.onload = () => {
+  
   Works.map(project => {
     showProjects(project);
   });
 
   if (window.location.pathname == "/#SuccessModal") {
-    console.log("fired");
     $("#SuccessModal").modal("show");
   }
 };
