@@ -2,7 +2,7 @@ window.onload = () => {
   Works.map(project => {
     showProjects(project);
   });
-  console.log(window.location.pathname == "/#SuccessModal");
+  console.log()
 
   if (window.location.pathname == "/#SuccessModal") {
     console.log("fired");
