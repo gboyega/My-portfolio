@@ -4,7 +4,7 @@ window.onload = () => {
   });
   console.log(
     window.location.pathname == "/#SuccessModal",
-    window.location.pathname
+    window.location.pathname == "/#SuccessModal"
   );
 
   if (window.location.pathname == "/#SuccessModal") {
