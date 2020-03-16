@@ -14,7 +14,7 @@ const showProjects = sp => {
   </div>
   <div class="card-footer">
     <a href=${sp.github} class="text-info card-link" target="blank"><i class="fab fa-github-alt"></i> Github</a>
-    <a href=${sp.url} class="text-info text-end card-link" target="blank"><i class="fas fa-globe"></i> Live Site</a>
+    <a href=${sp.url} class="text-info text-end card-link" target="blank"><i class="fas fa-globe"></i> Live</a>
   </div>
   </div>
 </div>`;
