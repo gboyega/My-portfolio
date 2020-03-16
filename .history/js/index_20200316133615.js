@@ -1,11 +1,11 @@
 window.onload = () => {
   Works.map(project => {
-    showProjects(project);
-  });
-
-  if (window.location.pathname == "/#SuccessModal") {
-    $("#SuccessModal").modal("show");
+      showProjects(project);
+    });
+  if (window.location.pathname =="/#SuccessModal"){
+    $("#SuccessModal").modal(options);
   }
+    
 };
 
 const showProjects = sp => {
