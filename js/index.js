@@ -8,7 +8,7 @@ window.onload = () => {
   ) {
     $("#SuccessModal").modal("show");
     $("#SuccessModal").on("hide.bs.modal", e => {
-      window.location.assign(window.location.hostname);
+      window.location.assign("");
     });
   }
 };
