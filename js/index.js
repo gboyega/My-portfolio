@@ -3,8 +3,12 @@ window.onload = () => {
     showProjects(project);
   });
 
+  if (
+    window.location.href === `https://${window.location.hostname}/#SuccessModal`
+  ) {
+    $("#SuccessModal").modal("show");
+  }
   console.log(window.location.href);
-  //$("#SuccessModal").modal("show");
 };
 
 const showProjects = sp => {
