@@ -4,11 +4,13 @@ window.onload = () => {
   });
 
   if (
-    window.location.href === `https://${window.location.hostname}/#SuccessModal`
+    window.location.href === `https://${window.location.hostname}/#Success`
   ) {
     $("#SuccessModal").modal("show");
+    $("#SuccessModal").on("hide.bs.modal", e => {
+      window.location.assign(window.location.hostname);
+    });
   }
-  console.log(window.location.href);
 };
 
 const showProjects = sp => {
