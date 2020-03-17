@@ -3,8 +3,8 @@ window.onload = () => {
     showProjects(project);
   });
 
-  console.log(window.location.href);
-  //$("#SuccessModal").modal("show");
+  console.log("fired");
+  $("#SuccessModal").modal("show");
 };
 
 const showProjects = sp => {

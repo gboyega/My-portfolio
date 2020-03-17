@@ -2,9 +2,7 @@ window.onload = () => {
   Works.map(project => {
     showProjects(project);
   });
-
-  console.log(window.location.href);
-  //$("#SuccessModal").modal("show");
+  
 };
 
 const showProjects = sp => {

@@ -4,7 +4,7 @@ window.onload = () => {
   });
 
   console.log(window.location.href);
-  //$("#SuccessModal").modal("show");
+  $("#SuccessModal").modal("show");
 };
 
 const showProjects = sp => {
